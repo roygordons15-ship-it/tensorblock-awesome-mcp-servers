@@ -199,6 +199,7 @@ Servers using tools for browser control, automation, and extracting content from
 - [yifanyifan897645/webcheck-mcp](https://github.com/yifanyifan897645/webcheck-mcp) - Website health checker MCP server: SEO audit, accessibility scan, broken link detection, and performance analysis.
 - [yifanyifan897645/deadlink-checker-mcp](https://github.com/yifanyifan897645/deadlink-checker-mcp) - Dead link checker MCP server for websites: detects broken links, redirects, and timeouts with detailed reporting.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): Automates browser-based workflows using LLMs and computer vision, with a Playwright-compatible SDK, no-code workflow builder, and MCP server for AI agents to control any website.
+- [Protremix/erius-phone-mcp](https://github.com/Protremix/erius-phone-mcp): Lets an agent drive an ERIUS PHONE hosted Android phone or tablet: read the screen as an accessibility tree or screenshot, tap, type, swipe and scroll, launch apps, install APKs, and pull crash logs. Stdio, `uvx erius-phone-mcp`; requires an ERIUS PHONE API key (early access). MIT.
 
 ## 🏗️ Build & Deployment Tools
 
